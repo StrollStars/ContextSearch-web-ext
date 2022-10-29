@@ -1005,7 +1005,7 @@
 },
 "SearchCode": {
 "description": "",
-"message": "Post-Search Script"
+"message": "Post搜索脚本"
 },
 "SearchCodeTooltip": {
 "description": "searchengine edit - searchcode tooltip",
